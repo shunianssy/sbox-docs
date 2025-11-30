@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: 小盒子官方文档
+description: 小盒子官方文档
+theme: 小盒子官方文档
 
-url: https://just-the-docs.github.io
+url: https://shunianssy.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/shunianssy/sbox-docs
