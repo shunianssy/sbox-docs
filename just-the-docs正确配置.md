@@ -1,6 +1,6 @@
 ---
 title: just-the-docs正确配置
-layout: home
+layout: default
 ---
 
 # just-the-docs正确配置
