@@ -21,4 +21,4 @@ layout: people
 
 支持我：[https://ifdian.net/a/shunian](https://ifdian.net/a/shunian) （请我喝杯咖啡 ☕）  
 
-保持好奇，保持热爱——永远编程，永远创造
+保持好奇，保持热爱
