@@ -3,7 +3,7 @@ title: FoxWebsite
 layout: about
 ---
 
-# 📘 foxwebsite Web 
+# foxwebsite
 
 ## 开源
 
