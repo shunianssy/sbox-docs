@@ -7,7 +7,7 @@ layout: about
 
 ## 开源
 
-[Github](https://github.com/shunianssy/foxwebsite)
+Github [github.com/shunianssy/foxwebsite](https://github.com/shunianssy/foxwebsite)
 
 ## 希望有flask的简洁与fastapi的快速的实验项目
 
