@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: home
-nav_enabled: true
 ---
 
 # 这里是小盒子官方文档
