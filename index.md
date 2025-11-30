@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: about
 ---
 
 # 这里是小盒子官方文档
