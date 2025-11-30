@@ -1,6 +1,10 @@
 title: Sbox Docs
 description: Sbox Docs
-theme: just-the-docs
+# 删除或注释掉这行：
+# theme: just-the-docs
+
+# 改为：
+remote_theme: just-the-docs/just-the-docs
 
 url: https://shunianssy.github.io/sbox-docs
 
