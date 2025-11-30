@@ -5,11 +5,11 @@ layout: about
 
 # foxwebsite
 
+希望有flask的简洁与fastapi的快速的实验项目
+
 ## 开源
 
 Github [github.com/shunianssy/foxwebsite](https://github.com/shunianssy/foxwebsite)
-
-## 希望有flask的简洁与fastapi的快速的实验项目
 
 > 一个轻量级、异步、Flask 风格的 Python Web 框架 —— 由中学生独立开发并持续维护 ❤️  
 > 你可以赞助我：[ifdian.net/a/shunian](https://www.ifdian.net/a/shunian)  
