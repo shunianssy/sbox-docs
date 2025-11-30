@@ -1,18 +1,19 @@
 ---
-title: Home
-layout: home
-nav_enabled: true
+title: Api
+layout: about
 ---
 
-# 这里是小盒子官方文档
+# 小盒子社区
 
-小盒子是什么?
+在线网址 [sbox.yearnstudio.cn](https://sbox.yearnstudio.cn/)
 
-  
+## 简介
 
-——由小盒子团队组成的开发团队
+新一代少儿编程scratch社区
 
-## 小盒子团队成员
+## 开发范围
+
+### 全体小盒子成员
 
 [吾家小狐](/people/吾家小狐.html) 维护 (前全栈主力，外部原因和身体原因不能继续履行职责)
 
@@ -26,5 +27,7 @@ sinfYuke 小盒子社区风气管理
 
 CH盐哥养的九尾猫 美术
 
-## 小盒子团队，社区成员，用户可通过[Github pr](https://github.com/shunianssy/sbox-docs)补充相关信息
+## 开源
+
+前端 [github.com/shunianssy/sbox-web](https://github.com/shunianssy/sbox-web)
 
